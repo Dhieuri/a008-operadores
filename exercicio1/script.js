@@ -3,6 +3,7 @@ let resto = numero % 2
 
 console.log(resto)  
 
-//qualquer numero par escolhido terá como resto 0;
+//Qualquer numero par escolhido terá como resto 0;
 
 //Qualquer numero impar tera resto 1;
+
